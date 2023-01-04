@@ -1,0 +1,3 @@
+C++ Commands:
+g++ "Cpp OCR Test.cpp" -o program3 -llept -ltesseract
+./program2
